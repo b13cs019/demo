@@ -6,7 +6,6 @@ git rm -rf .git
 sanjana malhotra
 
 
-hey sanjana malhotra how are you
 
 
-hey sanjiv kumar how are you
+
