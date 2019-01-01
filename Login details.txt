@@ -1,0 +1,15 @@
+Wi-Fi Login
+	User Name	: 4TiGOWiFi
+	Password	: fortigo@09
+
+Internet Access 
+	User Name	: sanjiv.kumar@4tigo.com
+	Password	: fortigo@123
+
+Email login
+	User Name	: sanjiv.kumar@4tigo.com
+	Password	: 123456789 (Need to change on first login)
+
+Microsoft login
+	User Name	: sanjiv.kumar@4tigo.onmicrosoft.com
+	Password	: Tav31107
