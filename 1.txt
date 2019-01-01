@@ -1,0 +1,6 @@
+sanjiv kumar
+this is my simple readme file
+git rm -rf .git
+
+
+sanjana malhotra
