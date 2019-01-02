@@ -6,10 +6,9 @@ git rm -rf .git
 sanjana malhotra
 
 
-<<<<<<< HEAD
+hey master how are you  now you are in master branch
 
-=======
-hey s malhotra how are you
->>>>>>> sanjana
+
+
 
 
